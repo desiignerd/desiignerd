@@ -1,0 +1,71 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="afrikdawn.com" resolutions="1x" timestamp="1517355368504">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="87732760" ref="index"/>
+    <file name="master_a-master.css" crc="4117937196" ref="fixtures---results:sabahawk-fc:index:table:transfers:statistics"/>
+    <file name="fixtures---results.css" crc="4241604007" ref="fixtures---results"/>
+    <file name="sabahawk-fc.css" crc="287142087" ref="sabahawk-fc"/>
+    <file name="table.css" crc="4044764717" ref="table"/>
+    <file name="transfers.css" crc="431460995" ref="transfers"/>
+    <file name="statistics.css" crc="348565459" ref="statistics"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:sabahawk-fc:fixtures---results:table:statistics:transfers"/>
+    <file name="museutils.js" crc="183364071" ref="index:sabahawk-fc:fixtures---results:table:statistics:transfers"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index:sabahawk-fc:fixtures---results:table:statistics:transfers"/>
+    <file name="pie.js" crc="3827607177" ref="sabahawk-fc:fixtures---results:table:statistics:transfers"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:sabahawk-fc:fixtures---results:table:statistics:transfers"/>
+    <file name="webpro.js" crc="3803554875" ref="index:fixtures---results"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index:sabahawk-fc:fixtures---results:table:statistics:transfers"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:sabahawk-fc:fixtures---results:table:statistics:transfers"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="index"/>
+    <file name="touchswipe.js" crc="4038331989" ref="index"/>
+    <file name="musewpdisclosure.js" crc="3993616448" ref="fixtures---results"/>
+  </folder>
+  <folder name="images">
+    <file name="831b37ff5b613882581892d1b57ebbc9.jpg" crc="3955437841" ref="sabahawk-fc:statistics:transfers"/>
+    <file name="p9808.png" crc="35047191" ref="statistics"/>
+    <file name="africa.png" crc="479726240" ref="index"/>
+    <file name="sabahawk.png" crc="4145416962" ref="sabahawk-fc"/>
+    <file name="p1827.png" crc="367282527" ref="sabahawk-fc"/>
+    <file name="union.png" crc="366650610" ref="statistics"/>
+    <file name="arrowmenudown.gif" crc="213132104" ref="index"/>
+    <file name="cactus-crop-u5325.jpg" crc="160346395" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="road-crop-u5327.jpg" crc="4127676751" ref="index"/>
+    <file name="trees-crop-u5323.jpg" crc="3816303325" ref="index"/>
+    <file name="cactus68x45.jpg" crc="381701099" seo="true" ref="index"/>
+    <file name="road68x45.jpg" crc="4220447013" seo="true" ref="index"/>
+    <file name="trees68x45.jpg" crc="4146958310" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="unnamed (1).png" crc="4202484619" ref="index:transfers"/>
+    <file name="stylish.jpg" crc="4042640140" ref="index"/>
+    <file name="u308-4.png" crc="3870093515" ref="sabahawk-fc"/>
+    <file name="union-u311-fr.png" crc="506429011" ref="sabahawk-fc"/>
+    <file name="u315-4.png" crc="3857737774" ref="sabahawk-fc"/>
+    <file name="u322-4.png" crc="4247665343" ref="sabahawk-fc"/>
+    <file name="u350-4.png" crc="3938470594" ref="sabahawk-fc"/>
+    <file name="u364-grad.png" crc="402915761" ref="sabahawk-fc"/>
+    <file name="u353-4.png" crc="4150093096" ref="sabahawk-fc"/>
+    <file name="u3505-4.png" crc="129136409" ref="sabahawk-fc"/>
+    <file name="u5422-4.png" crc="529085231" ref="sabahawk-fc"/>
+    <file name="u3540-4.png" crc="501723252" ref="sabahawk-fc"/>
+    <file name="u3541-grad.png" crc="471119344" ref="sabahawk-fc"/>
+    <file name="man85.png" crc="4138365472" ref="sabahawk-fc"/>
+    <file name="football-africa-reportage-31-1080x660.jpg" crc="153401019" ref="fixtures---results:table"/>
+    <file name="sabahawk-u2021-fr.png" crc="3948165890" ref="table"/>
+    <file name="union-u2027-fr.png" crc="182105894" ref="table"/>
+    <file name="swot.png" crc="513673477" ref="table"/>
+    <file name="hamglor-u2031-fr.png" crc="258111785" ref="table"/>
+    <file name="collae.png" crc="4043326112" ref="table"/>
+    <file name="panache.png" crc="455440540" ref="table"/>
+    <file name="hamglor.png" crc="3939601593" ref="statistics"/>
+  </folder>
+  <file name="index.html" crc="3979422579" seo="true" mt="1517355291239" redirect="true"/>
+  <file name="sabahawk-fc.html" crc="3869114511" seo="true" mt="1517355291239" redirect="true"/>
+  <file name="fixtures---results.html" crc="299276909" seo="true" mt="1517355291239" redirect="true"/>
+  <file name="table.html" crc="138165769" seo="true" mt="1517355291239" redirect="true"/>
+  <file name="statistics.html" crc="515894221" seo="true" mt="1517355291239" redirect="true"/>
+  <file name="transfers.html" crc="132842163" seo="true" mt="1517355291239" redirect="true"/>
+</manifest>
