@@ -1,56 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://afrikdawn.com/images/cactus68x45.jpg</loc>
-    <lastmod>2018-01-30</lastmod>
+    <loc>http://afrikdawn.com/assets/barclays-premier-league.ttf</loc>
+    <lastmod>2010-05-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://afrikdawn.com/images/road68x45.jpg</loc>
-    <lastmod>2018-01-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://afrikdawn.com/images/trees68x45.jpg</loc>
-    <lastmod>2018-01-30</lastmod>
+    <loc>http://afrikdawn.com/phone/second-round.html</loc>
+    <lastmod>2018-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://afrikdawn.com/index.html</loc>
-    <lastmod>2018-01-30</lastmod>
+    <lastmod>2018-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://afrikdawn.com/phone/index.html"/>
   </url>
   <url>
     <loc>http://afrikdawn.com/sabahawk-fc.html</loc>
-    <lastmod>2018-01-30</lastmod>
+    <lastmod>2018-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://afrikdawn.com/phone/sabahawk-fc.html"/>
   </url>
   <url>
     <loc>http://afrikdawn.com/fixtures---results.html</loc>
-    <lastmod>2018-01-30</lastmod>
+    <lastmod>2018-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://afrikdawn.com/phone/fixtures---results.html"/>
   </url>
   <url>
     <loc>http://afrikdawn.com/table.html</loc>
-    <lastmod>2018-01-30</lastmod>
+    <lastmod>2018-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://afrikdawn.com/phone/table.html"/>
   </url>
   <url>
     <loc>http://afrikdawn.com/statistics.html</loc>
-    <lastmod>2018-01-30</lastmod>
+    <lastmod>2018-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://afrikdawn.com/phone/statistics.html"/>
   </url>
   <url>
     <loc>http://afrikdawn.com/transfers.html</loc>
-    <lastmod>2018-01-30</lastmod>
+    <lastmod>2018-02-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://afrikdawn.com/phone/transfers.html"/>
+  </url>
+  <url>
+    <loc>http://afrikdawn.com/union-fc.html</loc>
+    <lastmod>2018-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

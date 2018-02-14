@@ -1,71 +1,151 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="afrikdawn.com" resolutions="1x" timestamp="1517355368504">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="afrikdawn.com" resolutions="1x" timestamp="1518563761357">
+  <folder name="assets">
+    <file name="barclays-premier-league.ttf" crc="3973629410" seo="true" mt="1274188618000"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="407835595" ref="phone>fixtures---results:phone>sabahawk-fc:phone>second-round:phone>table:phone>transfers:phone>statistics"/>
+      <file name="master_b-master.css" crc="492316763" ref="phone>index"/>
+      <file name="fixtures---results.css" crc="221234352" ref="phone>fixtures---results"/>
+      <file name="sabahawk-fc.css" crc="11503790" ref="phone>sabahawk-fc"/>
+      <file name="second-round.css" crc="3997735778" ref="phone>second-round"/>
+      <file name="table.css" crc="3833288257" ref="phone>table"/>
+      <file name="index.css" crc="522965862" ref="phone>index"/>
+      <file name="transfers.css" crc="4060418710" ref="phone>transfers"/>
+      <file name="statistics.css" crc="461651898" ref="phone>statistics"/>
+    </folder>
+    <file name="index.html" crc="4229399186" seo="true" mt="1518563669942" redirect="true"/>
+    <file name="sabahawk-fc.html" crc="35095009" seo="true" mt="1518563654514" redirect="true"/>
+    <file name="statistics.html" crc="3953068900" seo="true" mt="1518563654514" redirect="true"/>
+    <file name="table.html" crc="4190316878" seo="true" mt="1518563654514" redirect="true"/>
+    <file name="fixtures---results.html" crc="4215798154" seo="true" mt="1518563654514" redirect="true"/>
+    <file name="transfers.html" crc="3914744860" seo="true" mt="1518563654514" redirect="true"/>
+    <file name="second-round.html" crc="4045151120" seo="true" mt="1518563654514" redirect="true"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="index.css" crc="87732760" ref="index"/>
-    <file name="master_a-master.css" crc="4117937196" ref="fixtures---results:sabahawk-fc:index:table:transfers:statistics"/>
-    <file name="fixtures---results.css" crc="4241604007" ref="fixtures---results"/>
-    <file name="sabahawk-fc.css" crc="287142087" ref="sabahawk-fc"/>
-    <file name="table.css" crc="4044764717" ref="table"/>
-    <file name="transfers.css" crc="431460995" ref="transfers"/>
-    <file name="statistics.css" crc="348565459" ref="statistics"/>
+    <file name="index.css" crc="411170652" ref="index"/>
+    <file name="master_a-master.css" crc="56515496" ref="fixtures---results:sabahawk-fc:table:transfers:statistics:union-fc"/>
+    <file name="fixtures---results.css" crc="4020937062" ref="fixtures---results"/>
+    <file name="sabahawk-fc.css" crc="535261388" ref="sabahawk-fc"/>
+    <file name="table.css" crc="489625441" ref="table"/>
+    <file name="transfers.css" crc="153399914" ref="transfers"/>
+    <file name="statistics.css" crc="3942192237" ref="statistics"/>
+    <file name="master_b-master.css" crc="351111190" ref="index"/>
+    <file name="union-fc.css" crc="4062759539" ref="union-fc"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:sabahawk-fc:fixtures---results:table:statistics:transfers"/>
-    <file name="museutils.js" crc="183364071" ref="index:sabahawk-fc:fixtures---results:table:statistics:transfers"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index:sabahawk-fc:fixtures---results:table:statistics:transfers"/>
-    <file name="pie.js" crc="3827607177" ref="sabahawk-fc:fixtures---results:table:statistics:transfers"/>
-    <file name="jquery.watch.js" crc="71412426" ref="index:sabahawk-fc:fixtures---results:table:statistics:transfers"/>
-    <file name="webpro.js" crc="3803554875" ref="index:fixtures---results"/>
-    <file name="jquery.musemenu.js" crc="3957776250" ref="index:sabahawk-fc:fixtures---results:table:statistics:transfers"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:sabahawk-fc:fixtures---results:table:statistics:transfers"/>
-    <file name="musewpslideshow.js" crc="242596657" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="493285861" ref="index"/>
-    <file name="touchswipe.js" crc="4038331989" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:sabahawk-fc:fixtures---results:table:statistics:transfers:phone>index:phone>sabahawk-fc:phone>statistics:phone>table:phone>fixtures---results:phone>transfers:phone>second-round:union-fc"/>
+    <file name="museutils.js" crc="183364071" ref="index:sabahawk-fc:fixtures---results:table:statistics:transfers:phone>index:phone>sabahawk-fc:phone>statistics:phone>table:phone>fixtures---results:phone>transfers:phone>second-round:union-fc"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index:sabahawk-fc:fixtures---results:table:statistics:transfers:phone>index:phone>sabahawk-fc:phone>statistics:union-fc"/>
+    <file name="pie.js" crc="3827607177" ref="sabahawk-fc:fixtures---results:table:statistics:transfers:phone>sabahawk-fc:phone>statistics:phone>table:phone>fixtures---results:phone>second-round:union-fc"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:sabahawk-fc:fixtures---results:table:statistics:transfers:phone>index:phone>sabahawk-fc:phone>statistics:phone>table:phone>fixtures---results:phone>transfers:phone>second-round:union-fc"/>
+    <file name="webpro.js" crc="3803554875" ref="fixtures---results"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index:sabahawk-fc:fixtures---results:table:statistics:transfers:phone>index:phone>sabahawk-fc:phone>statistics:phone>table:phone>fixtures---results:phone>transfers:phone>second-round:union-fc"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:sabahawk-fc:fixtures---results:table:statistics:transfers:phone>index:phone>sabahawk-fc:phone>statistics:phone>table:phone>fixtures---results:phone>transfers:phone>second-round:union-fc"/>
     <file name="musewpdisclosure.js" crc="3993616448" ref="fixtures---results"/>
+    <file name="museredirect.js" crc="40941066" ref="index:sabahawk-fc:fixtures---results:table:statistics:transfers"/>
   </folder>
   <folder name="images">
-    <file name="831b37ff5b613882581892d1b57ebbc9.jpg" crc="3955437841" ref="sabahawk-fc:statistics:transfers"/>
+    <file name="831b37ff5b613882581892d1b57ebbc9.jpg" crc="3955437841" ref="sabahawk-fc:statistics:transfers:union-fc"/>
     <file name="p9808.png" crc="35047191" ref="statistics"/>
-    <file name="africa.png" crc="479726240" ref="index"/>
-    <file name="sabahawk.png" crc="4145416962" ref="sabahawk-fc"/>
-    <file name="p1827.png" crc="367282527" ref="sabahawk-fc"/>
+    <file name="africa.png" crc="162283531" ref="index:phone>index"/>
+    <file name="sabahawk.png" crc="4258766830" ref="sabahawk-fc"/>
+    <file name="p1827.png" crc="3805732868" ref="sabahawk-fc:union-fc"/>
     <file name="union.png" crc="366650610" ref="statistics"/>
-    <file name="arrowmenudown.gif" crc="213132104" ref="index"/>
-    <file name="cactus-crop-u5325.jpg" crc="160346395" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="road-crop-u5327.jpg" crc="4127676751" ref="index"/>
-    <file name="trees-crop-u5323.jpg" crc="3816303325" ref="index"/>
-    <file name="cactus68x45.jpg" crc="381701099" seo="true" ref="index"/>
-    <file name="road68x45.jpg" crc="4220447013" seo="true" ref="index"/>
-    <file name="trees68x45.jpg" crc="4146958310" seo="true" ref="index"/>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="unnamed (1).png" crc="4202484619" ref="index:transfers"/>
-    <file name="stylish.jpg" crc="4042640140" ref="index"/>
-    <file name="u308-4.png" crc="3870093515" ref="sabahawk-fc"/>
-    <file name="union-u311-fr.png" crc="506429011" ref="sabahawk-fc"/>
-    <file name="u315-4.png" crc="3857737774" ref="sabahawk-fc"/>
-    <file name="u322-4.png" crc="4247665343" ref="sabahawk-fc"/>
-    <file name="u350-4.png" crc="3938470594" ref="sabahawk-fc"/>
-    <file name="u364-grad.png" crc="402915761" ref="sabahawk-fc"/>
-    <file name="u353-4.png" crc="4150093096" ref="sabahawk-fc"/>
-    <file name="u3505-4.png" crc="129136409" ref="sabahawk-fc"/>
-    <file name="u5422-4.png" crc="529085231" ref="sabahawk-fc"/>
-    <file name="u3540-4.png" crc="501723252" ref="sabahawk-fc"/>
-    <file name="u3541-grad.png" crc="471119344" ref="sabahawk-fc"/>
-    <file name="man85.png" crc="4138365472" ref="sabahawk-fc"/>
-    <file name="football-africa-reportage-31-1080x660.jpg" crc="153401019" ref="fixtures---results:table"/>
-    <file name="sabahawk-u2021-fr.png" crc="3948165890" ref="table"/>
-    <file name="union-u2027-fr.png" crc="182105894" ref="table"/>
-    <file name="swot.png" crc="513673477" ref="table"/>
-    <file name="hamglor-u2031-fr.png" crc="258111785" ref="table"/>
-    <file name="collae.png" crc="4043326112" ref="table"/>
-    <file name="panache.png" crc="455440540" ref="table"/>
+    <file name="arrowmenudown.gif" crc="213132104" ref="index:phone>index:phone>sabahawk-fc:sabahawk-fc"/>
+    <file name="unnamed (1).png" crc="4202484619" ref="transfers"/>
+    <file name="stylish.jpg" crc="3904342828" ref="sabahawk-fc"/>
+    <file name="man85.png" crc="4138365472" ref="union-fc"/>
+    <file name="football-africa-reportage-31-1080x660.jpg" crc="153401019" ref="fixtures---results:table:phone>statistics:phone>table:phone>fixtures---results:phone>second-round"/>
     <file name="hamglor.png" crc="3939601593" ref="statistics"/>
+    <file name="isis-pretende-aplicar-el-ojo-por-ojo-diente-por-diente-en-los-partidos-de-fútbol.jpg" crc="3865539204" ref="phone>index:index"/>
+    <file name="sabahawk-fc-favicon.ico" crc="4154808997" ref="phone>sabahawk-fc"/>
+    <file name="africa2.png" crc="3824425250" ref="phone>sabahawk-fc"/>
+    <file name="sabahawk-u8808-fr.png" crc="4285528656" ref="phone>sabahawk-fc"/>
+    <file name="sabahawk-u8803-fr.png" crc="480725025" ref="phone>sabahawk-fc"/>
+    <file name="u8801-4.png" crc="308709469" ref="phone>sabahawk-fc"/>
+    <file name="u8805-4.png" crc="409327969" ref="phone>sabahawk-fc"/>
+    <file name="union-u8804-fr.png" crc="3934634680" ref="phone>sabahawk-fc"/>
+    <file name="u8811-4.png" crc="4106317591" ref="phone>sabahawk-fc"/>
+    <file name="u8815-4.png" crc="409327969" ref="phone>sabahawk-fc"/>
+    <file name="p1827-u8817-fr.png" crc="3954675593" ref="phone>sabahawk-fc"/>
+    <file name="statistics-favicon.ico" crc="4154808997" ref="phone>statistics"/>
+    <file name="u6889-4.png" crc="434686826" ref="phone>statistics"/>
+    <file name="u6890-5.png" crc="250992917" ref="phone>statistics"/>
+    <file name="blank-male-nfsmztobs2deh66ppr4irwdludrynyph9c70umo170.jpg" crc="59387477" ref="phone>statistics"/>
+    <file name="u7886-5.png" crc="129187012" ref="phone>statistics"/>
+    <file name="table-favicon.ico" crc="4154808997" ref="phone>table"/>
+    <file name="u6886-4.png" crc="4279492023" ref="phone>table"/>
+    <file name="u6696-4.png" crc="226629038" ref="phone>table"/>
+    <file name="u6877-4.png" crc="4075683198" ref="phone>table"/>
+    <file name="fixtures---results-favicon.ico" crc="4154808997" ref="phone>fixtures---results"/>
+    <file name="u7160-4.png" crc="4279492023" ref="phone>fixtures---results"/>
+    <file name="u7346-4.png" crc="3828093950" ref="phone>fixtures---results"/>
+    <file name="u7401-4.png" crc="334110618" ref="phone>fixtures---results"/>
+    <file name="u7441-4.png" crc="225046656" ref="phone>fixtures---results"/>
+    <file name="u7481-4.png" crc="3769374483" ref="phone>fixtures---results"/>
+    <file name="u7521-4.png" crc="377733755" ref="phone>fixtures---results"/>
+    <file name="u7561-4.png" crc="3998577116" ref="phone>fixtures---results"/>
+    <file name="u7601-4.png" crc="4018745154" ref="phone>fixtures---results"/>
+    <file name="transfers-favicon.ico" crc="4154808997" ref="phone>transfers"/>
+    <file name="u7663-4.png" crc="4279492023" ref="phone>second-round"/>
+    <file name="u7820-4.png" crc="287847586" ref="phone>second-round"/>
+    <file name="u7840-4.png" crc="4280365976" ref="phone>second-round"/>
+    <file name="u7850-4.png" crc="3888998152" ref="phone>second-round"/>
+    <file name="u8598-grad.png" crc="3869512762" ref="index"/>
+    <file name="africa-u4099-fr.png" crc="188456156" ref="sabahawk-fc"/>
+    <file name="u4704-4.png" crc="69353194" ref="sabahawk-fc"/>
+    <file name="u7798-4.png" crc="4046041522" ref="sabahawk-fc"/>
+    <file name="u7785-4.png" crc="318326083" ref="sabahawk-fc"/>
+    <file name="sabahawk2.png" crc="4145416962" ref="sabahawk-fc:union-fc"/>
+    <file name="u7789-4.png" crc="484033257" ref="sabahawk-fc"/>
+    <file name="union-u7788-fr.png" crc="506429011" ref="sabahawk-fc:union-fc"/>
+    <file name="u7792-4.png" crc="3946680255" ref="sabahawk-fc"/>
+    <file name="u7796-4.png" crc="56412272" ref="sabahawk-fc"/>
+    <file name="africaaaaaa.png" crc="4165080196" ref="sabahawk-fc"/>
+    <file name="u6134-4.png" crc="3876260108" ref="fixtures---results"/>
+    <file name="u6135-4.png" crc="3910920283" ref="fixtures---results"/>
+    <file name="u7964-4.png" crc="3876260108" ref="fixtures---results"/>
+    <file name="u7965-4.png" crc="3910920283" ref="fixtures---results"/>
+    <file name="u8018-4.png" crc="3876260108" ref="fixtures---results"/>
+    <file name="u8019-4.png" crc="3910920283" ref="fixtures---results"/>
+    <file name="u8053-4.png" crc="3876260108" ref="fixtures---results"/>
+    <file name="u8054-4.png" crc="3910920283" ref="fixtures---results"/>
+    <file name="u8123-4.png" crc="3876260108" ref="fixtures---results"/>
+    <file name="u8124-4.png" crc="3910920283" ref="fixtures---results"/>
+    <file name="u8158-4.png" crc="3876260108" ref="fixtures---results"/>
+    <file name="u8159-4.png" crc="3910920283" ref="fixtures---results"/>
+    <file name="u8193-4.png" crc="3876260108" ref="fixtures---results"/>
+    <file name="u8194-4.png" crc="3910920283" ref="fixtures---results"/>
+    <file name="u6230-4.png" crc="66181023" ref="fixtures---results"/>
+    <file name="u6249-4.png" crc="4294754230" ref="fixtures---results"/>
+    <file name="u5349-4.png" crc="3943508608" ref="table"/>
+    <file name="u5715-4.png" crc="3988489544" ref="table"/>
+    <file name="u5719-4.png" crc="493464145" ref="table"/>
+    <file name="u5345-4.png" crc="91057352" ref="statistics"/>
+    <file name="u5454-5.png" crc="319072145" ref="statistics"/>
+    <file name="u2790-5.png" crc="4187913054" ref="statistics"/>
+    <file name="u7717-4.png" crc="69353194" ref="union-fc"/>
+    <file name="union.jpg" crc="462825047" ref="union-fc"/>
+    <file name="u7693-4.png" crc="4046041522" ref="union-fc"/>
+    <file name="u7680-4.png" crc="318326083" ref="union-fc"/>
+    <file name="u7684-4.png" crc="484033257" ref="union-fc"/>
+    <file name="u7687-4.png" crc="3946680255" ref="union-fc"/>
+    <file name="u7691-4.png" crc="56412272" ref="union-fc"/>
+    <file name="u7695-4.png" crc="4122044749" ref="union-fc"/>
+    <file name="u7697-grad.png" crc="402915761" ref="union-fc"/>
+    <file name="u7696-4.png" crc="238027941" ref="union-fc"/>
+    <file name="u7709-4.png" crc="516754197" ref="union-fc"/>
+    <file name="u7754-4.png" crc="23527345" ref="union-fc"/>
+    <file name="u7710-4.png" crc="4033566374" ref="union-fc"/>
+    <file name="u7711-grad.png" crc="471119344" ref="union-fc"/>
   </folder>
-  <file name="index.html" crc="3979422579" seo="true" mt="1517355291239" redirect="true"/>
-  <file name="sabahawk-fc.html" crc="3869114511" seo="true" mt="1517355291239" redirect="true"/>
-  <file name="fixtures---results.html" crc="299276909" seo="true" mt="1517355291239" redirect="true"/>
-  <file name="table.html" crc="138165769" seo="true" mt="1517355291239" redirect="true"/>
-  <file name="statistics.html" crc="515894221" seo="true" mt="1517355291239" redirect="true"/>
-  <file name="transfers.html" crc="132842163" seo="true" mt="1517355291239" redirect="true"/>
+  <file name="index.html" crc="3979191706" seo="true" mt="1518561148601" redirect="true"/>
+  <file name="sabahawk-fc.html" crc="338862455" seo="true" mt="1518561264325" redirect="true"/>
+  <file name="fixtures---results.html" crc="163699103" seo="true" mt="1518561505659" redirect="true"/>
+  <file name="table.html" crc="196918337" seo="true" mt="1518561367742" redirect="true"/>
+  <file name="statistics.html" crc="4181636446" seo="true" mt="1518561338923" redirect="true"/>
+  <file name="transfers.html" crc="532130571" seo="true" mt="1518561432089" redirect="true"/>
+  <file name="union-fc.html" crc="4243879779" seo="true" mt="1518561308512" redirect="true"/>
 </manifest>
